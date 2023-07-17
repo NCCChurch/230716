@@ -2,7 +2,7 @@
 ## 讲员：沈弟兄
 ## 经文：《路加福音》18
 
-<audio controls src="./00_230702.mp3"></audio>
+<audio controls src="./00_230716.mp3"></audio>
 
 ![](./01.JPG)
 ![](./02.JPG)
